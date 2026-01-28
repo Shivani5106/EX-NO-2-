@@ -182,5 +182,9 @@ int main() {
 
 
 Output:
+
+
 <img width="427" height="421" alt="image" src="https://github.com/user-attachments/assets/cf0e452e-3b5a-4799-8948-6742087f482d" />
 
+Result:
+Thus the implementation of Playfair cipher had been executed successfully.
